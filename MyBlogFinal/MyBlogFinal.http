@@ -1,0 +1,6 @@
+@AdvancedImport_HostAddress = http://localhost:5262
+
+GET {{AdvancedImport_HostAddress}}/Home/
+Accept: application/json
+
+###

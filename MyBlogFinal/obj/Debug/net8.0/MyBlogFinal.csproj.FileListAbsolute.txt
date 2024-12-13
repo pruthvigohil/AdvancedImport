@@ -1,0 +1,278 @@
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\appsettings.Development.json
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\appsettings.json
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.exe
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.deps.json
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.runtimeconfig.json
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.pdb
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Azure.Core.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Azure.Identity.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\CsvHelper.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Humanizer.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.CodeDom.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.csproj.AssemblyReference.cache
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.AssemblyInfoInputs.cache
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.AssemblyInfo.cs
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.csproj.CoreCompileInputs.cache
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets.build.json
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets.development.json
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets\msbuild.MyBlogFinal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.MyBlogFinal.props
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyBlogFinal.props
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyBlogFinal.props
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\scopedcss\bundle\MyBlogFinal.styles.css
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFi.D1FD3FFE.Up2Date
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\refint\MyBlogFinal.dll
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.pdb
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.genruntimeconfig.cache
+D:\Office Work\My_Blogs\EF CORE\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\ref\MyBlogFinal.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\appsettings.Development.json
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\appsettings.json
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.staticwebassets.endpoints.json
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.exe
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.deps.json
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.runtimeconfig.json
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\MyBlogFinal.pdb
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Azure.Core.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Azure.Identity.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\CsvHelper.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Humanizer.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Mono.TextTemplating.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.CodeDom.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Composition.Convention.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Composition.Hosting.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Composition.Runtime.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Memory.Data.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Runtime.Caching.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.csproj.AssemblyReference.cache
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.GeneratedMSBuildEditorConfig.editorconfig
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.AssemblyInfoInputs.cache
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.AssemblyInfo.cs
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.csproj.CoreCompileInputs.cache
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.MvcApplicationPartsAssemblyInfo.cs
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.MvcApplicationPartsAssemblyInfo.cache
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\scopedcss\bundle\MyBlogFinal.styles.css
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets.build.json
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets.development.json
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets\msbuild.MyBlogFinal.Microsoft.AspNetCore.StaticWebAssets.props
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets\msbuild.MyBlogFinal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.MyBlogFinal.props
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyBlogFinal.props
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyBlogFinal.props
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets.pack.json
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFi.D1FD3FFE.Up2Date
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\refint\MyBlogFinal.dll
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.pdb
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\MyBlogFinal.genruntimeconfig.cache
+\\mminfra\SharedDoc\Pruthvi\My Projects\MyBlogFinal\MyBlogFinal\obj\Debug\net8.0\ref\MyBlogFinal.dll
